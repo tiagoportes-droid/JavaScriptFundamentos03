@@ -4,3 +4,14 @@ function saudação(){
 
 saudação();
 
+function bomDia(){
+    console.log("Bom Dia")
+}
+
+bomDia()
+
+function apresentar(nome){
+    console.log("Ola," + nome)
+}
+
+apresentar(Tiago)
