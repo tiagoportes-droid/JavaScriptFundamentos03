@@ -14,4 +14,29 @@ Ao final deste projeto, o aluno deverá ser capaz de:
 - Converter objetos de JSON e JSON objetos;
 - Criar Classes;
 - Intanciar Objetos com `new`;
+- Criar Atributos Metodos;
+- Compreender os conceitos iniciais de encapsulamento, herança e polimorfismo;
 
+## Como Executar
+
+Abra o Terminal  na pasta es execute:
+
+```bash
+
+    node nome-do-arquivo.js
+
+```
+
+# Funções
+
+Funçoes permitem organizar e reutilizar codigos.
+
+```javascript
+
+    function saudacao(){
+        console.log("Olá");
+    }
+    
+    saudacao();
+
+```
