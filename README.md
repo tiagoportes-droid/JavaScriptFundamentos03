@@ -11,3 +11,7 @@ Ao final deste projeto, o aluno deverá ser capaz de:
 - Ultilizar Arrow Functions;
 - Trabalhar com array de objetos;
 - Entender o uso de `this`;
+- Converter objetos de JSON e JSON objetos;
+- Criar Classes;
+- Intanciar Objetos com `new`;
+
