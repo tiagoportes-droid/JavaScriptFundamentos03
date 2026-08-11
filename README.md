@@ -1,3 +1,1 @@
 # JavaScriptFundamentos03
-
-teste
