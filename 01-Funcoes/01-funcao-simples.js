@@ -1,17 +1,17 @@
-function saudação(){
-    console.log("Ola, turma")
+function saudação() {
+  console.log("Ola, turma");
 }
 
 saudação();
 
-function bomDia(){
-    console.log("Bom Dia")
+function bomDia() {
+  console.log("Bom Dia");
 }
 
-bomDia()
+bomDia();
 
-function apresentar(nome){
-    console.log("Ola," + nome)
+function apresentar(nome) {
+  console.log("Ola," + nome);
 }
 
-apresentar(Tiago)
+apresentar(Tiago);
