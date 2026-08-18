@@ -6,3 +6,6 @@ const aluno = {
 }
 
 aluno.apresentar();
+
+
+//função dentro de um objeto
