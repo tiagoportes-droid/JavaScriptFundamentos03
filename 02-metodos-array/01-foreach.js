@@ -7,3 +7,5 @@ for (i = 0; i < frutas.length; i++){
 frutas.forEach((frutas) =>{
     console.log(frutas)
 });
+
+//for soq mais bunito

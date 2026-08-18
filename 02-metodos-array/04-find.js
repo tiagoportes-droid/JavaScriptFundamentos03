@@ -13,3 +13,4 @@ else{
     console.log(aluno1)
 }
 
+//define se o valor apresentado pela função existe, se não ele é indefinido

@@ -10,3 +10,5 @@ let nomes = ["Brenda", "Carlos", "Diana", "Felipe"];
 let mensagem = nomes.map((nomes) => `Olá, ${nomes.toUpperCase()}`);
 
 console.log(mensagem);
+
+//altera o array podendo multiplicar ou até mesemo deixar os nomes amiculos com um "Olá escrito"
