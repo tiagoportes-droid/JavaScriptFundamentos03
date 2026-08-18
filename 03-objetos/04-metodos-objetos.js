@@ -1,11 +1,10 @@
 const aluno = {
-    nome: "Pablo",
-    apresentar(){
-        console.log(`Olá`)
-    }
-}
+  nome: "Pablo",
+  apresentar() {
+    console.log(`Olá`);
+  },
+};
 
 aluno.apresentar();
-
 
 //função dentro de um objeto

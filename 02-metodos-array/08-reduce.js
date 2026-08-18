@@ -1,10 +1,6 @@
 const valores = [10, 20, 30, 40, 50];
 
-const total = valores.reduce (
-    (acumulador, valor) => acumulador + valor, 0
-)
-
-
+const total = valores.reduce((acumulador, valor) => acumulador + valor, 0);
 
 console.log(total);
 
@@ -14,6 +10,5 @@ console.log(total);
 // 30 + 30 = 60: acumulador = 60
 // 60 + 40 = 100: acumulador = 100
 // 100 + 50 = 150: acumulador = 150
-
 
 //reduce acumula os valores em um resultado

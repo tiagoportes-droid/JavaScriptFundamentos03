@@ -1,8 +1,8 @@
 const aluno = {
-    nome: "Ingrid",
-    idade: 16,
-    notas: 3
-}
+  nome: "Ingrid",
+  idade: 16,
+  notas: 3,
+};
 
 console.log(aluno);
 

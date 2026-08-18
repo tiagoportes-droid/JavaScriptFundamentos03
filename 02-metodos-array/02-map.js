@@ -4,7 +4,6 @@ const dobrado = numeros.map((num) => num * 2);
 
 console.log(dobrado);
 
-
 let nomes = ["Brenda", "Carlos", "Diana", "Felipe"];
 
 let mensagem = nomes.map((nomes) => `Olá, ${nomes.toUpperCase()}`);

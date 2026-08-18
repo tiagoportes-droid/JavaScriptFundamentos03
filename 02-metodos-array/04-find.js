@@ -6,11 +6,10 @@ console.log(aluno);
 
 const aluno1 = alunos.find((nome) => nome === "Felipe");
 
-if(aluno1 === undefined){
-    console.log("Não encontrado")
-}
-else{
-    console.log(aluno1)
+if (aluno1 === undefined) {
+  console.log("Não encontrado");
+} else {
+  console.log(aluno1);
 }
 
 //define se o valor apresentado pela função existe, se não ele é indefinido
