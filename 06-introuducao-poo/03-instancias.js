@@ -6,5 +6,5 @@ class Pessoa {
 }
 
 const pessoa = new Pessoa("Tiago", 16);
-const pessoa1 = new Pessoa("Matheus", 16)
-console.log(pessoa1)
+const pessoa1 = new Pessoa("Matheus", 16);
+console.log(pessoa1);
