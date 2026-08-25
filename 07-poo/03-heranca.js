@@ -6,7 +6,7 @@ class Pessoa {
 
 class Aluno extends Pessoa {
   constructor(nome, curso) {
-    super(nome);
+    super(nome); 
     this.curso = curso;
   }
 }
