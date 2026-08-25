@@ -1,0 +1,24 @@
+class Aluno {
+  constructor(nome, nota1, nota2) {
+    this.nome = nome;
+    this.nota1 = nota1;
+    this.nota2 = nota2;
+  }
+
+  calcularMedia() {
+    return (this.nota1 + this.nota2) / 2;
+  }
+
+  verificarSituacao() {
+    return this.calcularMedia() >= 7 ? "Aprovado" : "Reprovado";
+  }
+
+  exibirDados() {
+    console.log(
+      `${this.nome} | Media: ${this.calcularMedia()} | ${this.verificarSituacao()}`,
+    );
+  }
+}
+
+const aluno = new Aluno("Tiago", 8, 8);
+aluno.exibirDados();
